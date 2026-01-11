@@ -59,20 +59,16 @@ Food Preview
 
 Payment Summary
 
-Order Confirmation Flow
+Order Confirmation FloW
+#Screenshots
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/91e155bf-63a2-468e-86ee-2e4b3b2616ce" />
 
-🚀 Future Improvements
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/e0d09872-7dcc-4627-a249-37e7493877df" />
 
-Add food listing & cart screens
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/342106ff-cba2-4232-b9f4-a0b10f631f25" />
 
-Dark mode support
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/7a65f012-509e-466d-8bd7-abdfb75393da" />
 
-Interactive prototype with transitions
-
-User profile & order history screens
-
-📌 Note
-
-This project is created for learning and UI/UX practice purposes.
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/eb255a0e-b72d-4e7b-92d8-74d2402b2718" />
 
 🔗 Designed with ❤️ by Jisha
