@@ -66,6 +66,7 @@ Order Confirmation FloW
 <img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/e0d09872-7dcc-4627-a249-37e7493877df" />
 
 <img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/342106ff-cba2-4232-b9f4-a0b10f631f25" />
+<img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/b64205e7-3d4e-46e9-b906-7c5ed935cc29" />
 
 <img width="375" height="812" alt="Image" src="https://github.com/user-attachments/assets/7a65f012-509e-466d-8bd7-abdfb75393da" />
 
